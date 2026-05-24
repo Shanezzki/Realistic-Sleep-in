@@ -1,6 +1,3 @@
-# Realistic-Sleep-in
-Whis this Minecraft mod you can sleep at any time you want.
-
 # **🛌 Realistic Sleep'in**
 **Have you ever wondered why Steve can only sleep on a strict schedule and under perfect conditions? In the real world, we can take a nap at noon, go to bed early, or crash even if there's a thunderstorm raging outside (or monsters lurking nearby).**
 
